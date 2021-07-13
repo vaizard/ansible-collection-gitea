@@ -1,0 +1,8 @@
+### REQUIRED
+
+namespace: glued
+name: gitea
+version: 1.0.0
+readme: README.md
+authors:
+- Pavel Stratil <pavel@senbonzakura.net>

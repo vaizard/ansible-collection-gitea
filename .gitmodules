@@ -1,0 +1,18 @@
+[submodule "roles/ansible-role-bootstrap"]
+	path = roles/ansible-role-bootstrap
+	url = ssh://gitea@git.senbonzakura.net:2222/Mage/ansible-role-bootstrap.git
+[submodule "roles/ansible-role-locales"]
+	path = roles/ansible-role-locales
+	url = ssh://gitea@git.senbonzakura.net:2222/Mage/ansible-role-locales.git
+[submodule "roles/ansible-role-update"]
+	path = roles/ansible-role-update
+	url = ssh://gitea@git.senbonzakura.net:2222/Mage/ansible-role-update.git
+[submodule "roles/ansible-role-git"]
+	path = roles/ansible-role-git
+	url = ssh://gitea@git.senbonzakura.net:2222/Mage/ansible-role-git.git
+[submodule "roles/ansible-role-gitea"]
+	path = roles/ansible-role-gitea
+	url = ssh://gitea@git.senbonzakura.net:2222/Mage/ansible-role-gitea.git
+[submodule "roles/ansible-role-mysql"]
+	path = roles/ansible-role-mysql
+	url = ssh://gitea@git.senbonzakura.net:2222/Mage/ansible-role-mysql.git

@@ -1,0 +1,8 @@
+- name: Set up a workstation
+  collections:
+    - glued.gitea
+  vars:
+    ansible_install_method: pip
+    ansible_install_version_pip: "2.9.16"
+  roles:
+    - role: ansible-role-ansible
